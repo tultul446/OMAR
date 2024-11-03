@@ -1,0 +1,35 @@
+body{
+  margin:40px;  
+background-color: rgb(133, 248, 171);
+}
+
+p {
+font-family: Arial, Helvetica, sans-serif;
+line-height: 5px;
+}
+.asignment, p, h2{
+font-family: cursive;
+font-weight: bold;
+
+
+}
+.asignment, p, h3{
+
+font-size: 500;
+margin-left: 10px;
+color: rgb(39, 36, 36);
+font-family: cursive;
+
+}
+.asignment, p, h4{
+    font: size 5px;
+margin-left: 25px;
+font-family: cursive;
+}
+.asignment, p, h5{
+    margin-left: 50px;
+    color: rgb(67, 59, 59);
+font-size: bold;
+font-family: cursive;
+}
+
