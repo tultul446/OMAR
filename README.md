@@ -1,3 +1,3 @@
 #  Introduction javascript
-This is bio data form.
+Question and answer:
 [visit the website](tultul446.github.io/omar/)
